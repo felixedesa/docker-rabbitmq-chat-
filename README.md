@@ -2,7 +2,7 @@
 
 # Lab Sessions: AMQP with RabbitMQ and Python
 
-This document provides an overview of the steps and setup required to build a simple "Hello World" application using AMQP, RabbitMQ, and Python.
+This document provides an overview of the steps and setup required to build a simple "Hello World" and chat application using AMQP, RabbitMQ, and Python.
 
 ---
 
