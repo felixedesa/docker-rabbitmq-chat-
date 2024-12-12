@@ -1,6 +1,6 @@
 # Chapter 4: Communication
 
-## Lab Sessions: AMQP with RabbitMQ and Python
+## Lab Sessions: AMQP with RabbitMQ and Python + Dockerfile+docker-compose.yml
 
 This document provides an overview of the steps and setup required to build a simple "Hello World" and chat application using AMQP, RabbitMQ, and Python. It also includes Docker setup and configurations for seamless deployment and execution.
 
